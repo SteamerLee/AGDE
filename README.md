@@ -1,2 +1,2 @@
 # AGDE
-An Adaptive and Guided Differential Evolution Framework for solving Continuous Constrained Optimization Problems.
+** The implementations will be released soon after the paper is accepted.
